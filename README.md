@@ -1,192 +1,64 @@
-<h1 align="center">Hi 👋 I'm Mayuri Bhalani</h1>
-<h3 align="center">Data & Machine Learning Enthusiast | Analytics Graduate Student</h3>
+<h1 align="center">Hi 👋 I'm Mayuri Patel</h1>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Master's in Analytics (GPA: 3.9/4)  
-🤖 Passionate about Machine Learning, AI, and Data Science  
-📊 Experienced in building end-to-end ML systems and analytics dashboards  
-🚀 Love turning raw data into impactful business insights  
+Master’s in Analytics (GPA 3.9/4) passionate about  
+Machine Learning, AI Systems, and Data Engineering.  
+I build end-to-end ML solutions and scalable data-driven applications.
 
 ---
 
-## 🔭 What I'm Currently Working On
+## 🚀 What I'm Up To
 
-- 📈 Building ML models for predictive analytics
-- 🧠 Brain Tumor Detection using Deep Learning
-- ☁️ Deploying models using Google Cloud & Vertex AI
-- 📊 Interactive dashboards using Power BI & Tableau
-
----
-
-## 🛠 Tech Stack
-
-### 👩‍💻 Languages
-Python | SQL | Java | C++
-
-### 📊 Data & ML
-Scikit-learn | TensorFlow | Pandas | NumPy | Matplotlib | Seaborn
-
-### ☁️ Cloud & Tools
-Google Cloud | Vertex AI | AWS | Docker | Git | Power BI | Tableau
+- 🤖 Building Machine Learning & Deep Learning models  
+- 📊 Designing predictive analytics systems  
+- ☁️ Working with Google Cloud & Vertex AI  
+- 📈 Creating interactive dashboards & monitoring systems  
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Connect with me
 
-🚀 **Brain Tumor Classification**
-- CNN-based medical image classification
-- Solved Out-of-Distribution detection problem
-
-📊 **Telecom Customer Churn Prediction**
-- 96.7% ROC-AUC
-- Implemented drift detection & model monitoring
-
-🌍 **Smart Air Monitoring System**
-- IoT-based indoor air quality analytics
-- Predictive modeling using sensor data
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuri%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayuri-bhalani-5472771a6/)
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Tech Stack
 
-LinkedIn: <h1 align="center">Hi 👋 I'm Mayuri Patel</h1>
-<h3 align="center">Data & Machine Learning Enthusiast | Analytics Graduate Student</h3>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+### Web & Backend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 👩‍💻 About Me
+### Machine Learning & Data
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
-🎓 Master's in Analytics (GPA: 3.9/4)  
-🤖 Passionate about Machine Learning, AI, and Data Science  
-📊 Experienced in building end-to-end ML systems and analytics dashboards  
-🚀 Love turning raw data into impactful business insights  
+### Automation & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🔭 What I'm Currently Working On
-
-- 📈 Building ML models for predictive analytics
-- 🧠 Brain Tumor Detection using Deep Learning
-- ☁️ Deploying models using Google Cloud & Vertex AI
-- 📊 Interactive dashboards using Power BI & Tableau
-
----
-
-## 🛠 Tech Stack
-
-### 👩‍💻 Languages
-Python | SQL | Java | C++
-
-### 📊 Data & ML
-Scikit-learn | TensorFlow | Pandas | NumPy | Matplotlib | Seaborn
-
-### ☁️ Cloud & Tools
-Google Cloud | Vertex AI | AWS | Docker | Git | Power BI | Tableau
-
----
-
-## 📌 Featured Projects
-
-🚀 **Brain Tumor Classification**
-- CNN-based medical image classification
-- Solved Out-of-Distribution detection problem
-
-📊 **Telecom Customer Churn Prediction**
-- 96.7% ROC-AUC
-- Implemented drift detection & model monitoring
-
-🌍 **Smart Air Monitoring System**
-- IoT-based indoor air quality analytics
-- Predictive modeling using sensor data
-
----
-
-## 🌐 Connect With Me
-
-LinkedIn: <h1 align="center">Hi 👋 I'm Mayuri Patel</h1>
-<h3 align="center">Data & Machine Learning Enthusiast | Analytics Graduate Student</h3>
-
----
-
-## 👩‍💻 About Me
-
-🎓 Master's in Analytics (GPA: 3.9/4)  
-🤖 Passionate about Machine Learning, AI, and Data Science  
-📊 Experienced in building end-to-end ML systems and analytics dashboards  
-🚀 Love turning raw data into impactful business insights  
-
----
-
-## 🔭 What I'm Currently Working On
-
-- 📈 Building ML models for predictive analytics
-- 🧠 Brain Tumor Detection using Deep Learning
-- ☁️ Deploying models using Google Cloud & Vertex AI
-- 📊 Interactive dashboards using Power BI & Tableau
-
----
-
-## 🛠 Tech Stack
-
-### 👩‍💻 Languages
-Python | SQL | Java | C++
-
-### 📊 Data & ML
-Scikit-learn | TensorFlow | Pandas | NumPy | Matplotlib | Seaborn
-
-### ☁️ Cloud & Tools
-Google Cloud | Vertex AI | AWS | Docker | Git | Power BI | Tableau
-
----
-
-## 📌 Featured Projects
-
-🚀 **Brain Tumor Classification**
-- CNN-based medical image classification
-- Solved Out-of-Distribution detection problem
-
-📊 **Telecom Customer Churn Prediction**
-- 96.7% ROC-AUC
-- Implemented drift detection & model monitoring
-
-🌍 **Smart Air Monitoring System**
-- IoT-based indoor air quality analytics
-- Predictive modeling using sensor data
-
----
-
-## 🌐 Connect With Me
-
-LinkedIn: [Your LinkedIn Link]  
-
----
-
-⭐ If you like my work, feel free to explore my repositories!
-
----
-
-⭐ If you like my work, feel free to explore my repositories!
- 
-
----
-
-⭐ If you like my work, feel free to explore my repositories!
-
-
-<!--
-**mayuri232003/mayuri232003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
