@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mayuri Patel</h1>
+<h1 align="center">Hi 👋 I'm Mayuri Bhalani</h1>
 <h3 align="center">Data & Machine Learning Enthusiast | Analytics Graduate Student</h3>
 
 ---
