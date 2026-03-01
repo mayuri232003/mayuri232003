@@ -21,7 +21,7 @@ I build end-to-end ML solutions and scalable data-driven applications.
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuri%20Patel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayuri-bhalani-5472771a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-bhalani-5472771a6/)
 
 ---
 
