@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Mayuri Bhalani</h1>
-
 ## 👩‍💻 About Me
 
 Master’s in Analytics (GPA 3.9/4) passionate about  
